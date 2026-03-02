@@ -1,0 +1,13 @@
+# C/C++
+*.o
+*.a
+*.so
+*.out
+build/
+
+# Go
+go/algo/vendor/
+
+# 系统文件
+.DS_Store
+*.swp
